@@ -48,4 +48,6 @@ pip3 install bitcoin-utils~=0.5.5
 
 unzip master.zip
 
-cd btcrecover-master/
+cd /root/btcrecover-master
+
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/tokenlist.txt
