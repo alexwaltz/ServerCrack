@@ -48,3 +48,4 @@ pip3 install bitcoin-utils~=0.5.5
 
 unzip master.zip
 
+cd btcrecover-master/
