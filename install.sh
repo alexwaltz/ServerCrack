@@ -51,3 +51,21 @@ unzip master.zip
 cd /root/btcrecover-master
 
 wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/tokenlist.txt
+
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_1.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_2.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_3.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_4.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_5.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_6.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_7.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_8.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_9.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_10.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_11.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_12.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_13.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_14.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_15.txt
+wget https://raw.githubusercontent.com/alexwaltz/ServerCrack/main/token_16_servers/tokenlist_parsed_16.txt
+
