@@ -1,0 +1,12 @@
+^1^buyer
+^2^city ^2^forest ^2^tree ^2^roof ^2^address ^2^cabin ^2^chimney ^2^estate ^2^lawn ^2^mansion ^2^nature ^2^outdoor ^2^outside ^2^village ^2^property ^2^region ^2^road ^2^rural ^2^wood
+^3^wolf ^3^alpha ^3^animal ^3^moon ^3^vicious ^3^wild
+^4^intact
+^5^drastic
+^6^dust ^6^flower ^6^powder
+^7^opinion
+^8^park
+^9^oven ^9^cook ^9^food ^9^kitchen ^9^fire ^9^stove ^9^gas
+^10^start
+^11^rural
+^12^pitch ^12^catch
